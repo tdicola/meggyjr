@@ -1,5 +1,5 @@
-meggyjr
-=======
+Meggy Jr. Code
+==============
 
 Code for the [Meggy Jr. electronics kit](http://www.evilmadscientist.com/2008/meggy-jr-rgb/) from [EMSL](http://www.evilmadscientist.com/).
 
